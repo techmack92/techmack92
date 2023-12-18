@@ -1,6 +1,6 @@
 👋 Hi, I go by Mack.<br>
 👀 I’m interested in expanding my knowledge through building new projects to find my niche in web development.<br>
-🖥️ I’m currently learning JavaScript, MySQL, React, & MERN.<br>
+🖥️ I’m currently learning JavaScript & frameworks (Node.js, Express.js), MySQL, React, & MERN.<br>
 👥 I’m looking to collaborate on any new projects for exposure, experience, networking & building my portfolio.<br>
 📫 You can reach me @ mldixon9750@gmail.com
 
