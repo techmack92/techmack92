@@ -1,5 +1,5 @@
 👋 Hi, I go by Mack.<br>
-👀 I’m interested in expanding my knowledge through building new projects to find my niche in web development.<br>
+👀 I’m interested in expanding my knowledge through building new projects to find my niche in web and software development.<br>
 🖥️ I’m currently sharpening my skills in JavaScript & frameworks (Node.js, Express.js), MongoDB, GraphQL React, & MERN.<br>
 👥 I’m looking to collaborate on any new projects for exposure, experience, networking & building my portfolio.<br>
 📫 You can reach me @ mldixon9750@gmail.com
